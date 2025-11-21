@@ -31,7 +31,7 @@ API de Taxas de Câmbio (ExchangeRate API)
 
 📦 Instalação e Uso
 1️⃣ Clone o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone  https://github.com/Chapeu-Preto/Conversor-Moedas.git
 
 2️⃣ Acesse o diretório do projeto
 cd SEU_REPOSITORIO
