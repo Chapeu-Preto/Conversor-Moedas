@@ -21,21 +21,3 @@ Você também pode instalar o app apontando a câmera do seu celular para o QR C
 </div>
 
 ---
-
-# 🛠 Como foi feito
-
-- **React Native**
-- **Expo**
-- **EAS Build**
-- **JavaScript**
-- **API pública de câmbio**
-
----
-
-# 🚀 Executar localmente
-
-```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO
-cd SEU_REPOSITORIO
-npm install
-npx expo start
